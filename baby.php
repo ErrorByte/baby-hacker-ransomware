@@ -1,3 +1,4 @@
+# Coded By ErrorByte@AnarchoXploit #
 <title>Baby Hacker Ransomware</title>
 <link rel="shortcut icon" type="image/x-icon" href="https://img.deusm.com/darkreading/bh-asia-facebook-profile.png">
 <style>
